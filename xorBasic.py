@@ -5,8 +5,7 @@ def main():
 
     print('%x' % xor_result)
     
-result = main()
-print(result)
+
 
 
 
